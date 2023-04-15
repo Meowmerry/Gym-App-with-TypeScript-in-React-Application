@@ -12,7 +12,7 @@ To get started with this application, follow the steps below:
 
 1) Clone the repository to your local machine using the following command:
 
-    <code>git clone https://github.com/your-username/gym-app-typescript-react.git</code>
+    <code>git clone https://github.com/Meowmerry/Gym-App-with-TypeScript-in-React-Application</code>
 
 
 2)  Navigate to the project directory and install the dependencies using the following command:
