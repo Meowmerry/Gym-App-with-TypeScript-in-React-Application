@@ -58,5 +58,7 @@ This application provides the following features:
 Contributions to this project are welcome. If you find any issues or have any suggestions for improvement, please create a pull request.
 
 
+Tailwind Cmd + ctrl + t
+
 <h2>License</h2>
 This project is licensed under the MIT License. See the LICENSE file for more details.
