@@ -1,8 +1,10 @@
 # Gym App with TypeScript in React Application
-npm create vite@latest  
+
+<img width="1625" alt="github" src="https://user-images.githubusercontent.com/50789325/232355882-ea2b3112-c54b-4fb6-bbe3-fca1793abb83.png">
+
 
 This is a sample Gym App built with TypeScript in a React Application. This application allows users to track their workout sessions and provides various features to help them achieve their fitness goals.
-
+npm create vite@latest  
 ## Prerequisites
 Node.js installed on your system.
 A basic understanding of TypeScript and React.
